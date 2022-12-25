@@ -58,6 +58,7 @@ def count(start_number: float = 1, step: float = 1) -> dict:
         yield dict_
         pk += 1  # увеличиваем показатель счётчика на 1
 
+
 def main():
     my_count = count() # инициализировать генератор книг
     data = [next(my_count) for _ in range(100)]# составить список из 100 книг
@@ -67,8 +68,6 @@ def main():
 
 if __name__ == '__main__': #Запуск программы
     main()
-    my_count = count()
-    print(next(my_count))
 
 
 
