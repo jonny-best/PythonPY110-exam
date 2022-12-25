@@ -1,8 +1,9 @@
 import random
+import json
 from faker import Faker
 from conf import MODEL
 BOOKS_FILE = "books.txt"
-
+pk = 1
 def get_title() -> str: #Генерирем название книги случайным образом
     with open(BOOKS_FILE, encoding="utf-8") as f:
         data = f.readlines()
@@ -55,12 +56,20 @@ def count(start_number: float = 1, step: float = 1) -> dict:
         }
         }
         yield dict_
-        pk += step #увеличиваем показатель счётчика на 1
+        pk += 1  # увеличиваем показатель счётчика на 1
+
+def main():
+    my_count = count() # инициализировать генератор книг
+    data = [next(my_count) for _ in range(100)]# составить список из 100 книг
+    with open("spisok.json", "w", encoding="utf-8") as f: # записать этот список в json
+        f.write(json.dumps(data, indent=4, ensure_ascii=False))
+
 
 if __name__ == '__main__': #Запуск программы
-
+    main()
     my_count = count()
     print(next(my_count))
+
 
 
 
