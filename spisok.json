@@ -4,13 +4,15 @@
         "pk": 1,
         "fields": {
             "title": "Идиот",
-            "year": 2009,
-            "pages": 128,
-            "isbn13": "978-1-293-89523-8",
-            "rating": 0.8479,
-            "price": 0.9778,
+            "year": 1982,
+            "pages": 278,
+            "isbn13": "978-1-334-16785-0",
+            "rating": 0.2117,
+            "price": 0.828,
             "author": [
-                "Joseph Lewis"
+                "Keith Miller",
+                "Douglas Russell",
+                "Mark Lewis"
             ]
         }
     },
@@ -18,14 +20,14 @@
         "model": "shop_final.book",
         "pk": 2,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 2000,
-            "pages": 118,
-            "isbn13": "978-1-4360-8603-5",
-            "rating": 0.9908,
-            "price": 0.438,
+            "title": "Горе от ума\n",
+            "year": 2003,
+            "pages": 370,
+            "isbn13": "978-1-67907-402-8",
+            "rating": 0.15058,
+            "price": 0.4,
             "author": [
-                "Megan Irwin"
+                "Robert Miller"
             ]
         }
     },
@@ -33,14 +35,14 @@
         "model": "shop_final.book",
         "pk": 3,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 2009,
-            "pages": 346,
-            "isbn13": "978-0-19-017449-1",
-            "rating": 0.48337,
-            "price": 0.78,
+            "title": "Капитанская дочка\n",
+            "year": 1991,
+            "pages": 408,
+            "isbn13": "978-1-938254-47-5",
+            "rating": 0.40022,
+            "price": 0.8,
             "author": [
-                "Jose Raymond"
+                "Heidi Benson"
             ]
         }
     },
@@ -48,14 +50,15 @@
         "model": "shop_final.book",
         "pk": 4,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 1984,
-            "pages": 418,
-            "isbn13": "978-1-4978-6646-1",
-            "rating": 0.53267,
-            "price": 0.88,
+            "title": "Преступление и наказание\n",
+            "year": 2019,
+            "pages": 3,
+            "isbn13": "978-1-391-81886-3",
+            "rating": 0.48553,
+            "price": 0.9941,
             "author": [
-                "Kimberly Fowler"
+                "Elizabeth Kaufman",
+                "Timothy Strong"
             ]
         }
     },
@@ -63,14 +66,16 @@
         "model": "shop_final.book",
         "pk": 5,
         "fields": {
-            "title": "Идиот",
-            "year": 2012,
-            "pages": 156,
-            "isbn13": "978-0-13-957844-1",
-            "rating": 0.48986,
-            "price": 0.40775,
+            "title": "Горе от ума\n",
+            "year": 2003,
+            "pages": 320,
+            "isbn13": "978-1-75371-309-6",
+            "rating": 0.24652,
+            "price": 0.378,
             "author": [
-                "Rhonda Sullivan"
+                "Mark Gregory",
+                "Theresa Obrien",
+                "Jennifer Hernandez"
             ]
         }
     },
@@ -78,16 +83,15 @@
         "model": "shop_final.book",
         "pk": 6,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 2003,
-            "pages": 38,
-            "isbn13": "978-1-340-11238-7",
-            "rating": 0.10053,
-            "price": 0.2,
+            "title": "Капитанская дочка\n",
+            "year": 2016,
+            "pages": 336,
+            "isbn13": "978-1-375-61437-5",
+            "rating": 0.89443,
+            "price": 0.46,
             "author": [
-                "Antonio Harris",
-                "Kayla Kaiser",
-                "Robert Chambers"
+                "Jeff Caldwell",
+                "Michael Delgado"
             ]
         }
     },
@@ -95,14 +99,15 @@
         "model": "shop_final.book",
         "pk": 7,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1992,
-            "pages": 247,
-            "isbn13": "978-0-2282-4258-1",
-            "rating": 0.9788,
-            "price": 0.88,
+            "title": "Капитанская дочка\n",
+            "year": 2020,
+            "pages": 78,
+            "isbn13": "978-1-965377-11-6",
+            "rating": 0.04166,
+            "price": 0.727,
             "author": [
-                "Terry Beck"
+                "Max Rios MD",
+                "Gina Nguyen"
             ]
         }
     },
@@ -110,16 +115,16 @@
         "model": "shop_final.book",
         "pk": 8,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1987,
-            "pages": 341,
-            "isbn13": "978-1-241-90041-0",
-            "rating": 0.09427,
-            "price": 0.673,
+            "title": "Горе от ума\n",
+            "year": 2016,
+            "pages": 137,
+            "isbn13": "978-1-238-07664-7",
+            "rating": 0.45482,
+            "price": 0.76,
             "author": [
-                "James Taylor PhD",
-                "Andrew Perkins",
-                "Abigail Cruz"
+                "Todd Taylor",
+                "Travis Armstrong",
+                "Robert White"
             ]
         }
     },
@@ -127,14 +132,14 @@
         "model": "shop_final.book",
         "pk": 9,
         "fields": {
-            "title": "Идиот",
-            "year": 2008,
-            "pages": 211,
-            "isbn13": "978-1-77879-013-3",
-            "rating": 0.71287,
-            "price": 0.3122,
+            "title": "Капитанская дочка\n",
+            "year": 1997,
+            "pages": 228,
+            "isbn13": "978-1-4903-7014-9",
+            "rating": 0.91316,
+            "price": 0.885,
             "author": [
-                "Brian Franco"
+                "Sarah Harris"
             ]
         }
     },
@@ -142,15 +147,15 @@
         "model": "shop_final.book",
         "pk": 10,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 2015,
-            "pages": 367,
-            "isbn13": "978-0-349-40560-5",
-            "rating": 0.2401,
-            "price": 0.8,
+            "title": "Преступление и наказание\n",
+            "year": 1997,
+            "pages": 67,
+            "isbn13": "978-1-354-87149-2",
+            "rating": 0.95587,
+            "price": 0.476,
             "author": [
-                "John Smith",
-                "Brenda Hogan"
+                "Melissa Bailey",
+                "Anthony Perez"
             ]
         }
     },
@@ -159,13 +164,14 @@
         "pk": 11,
         "fields": {
             "title": "Идиот",
-            "year": 2002,
-            "pages": 178,
-            "isbn13": "978-1-79359-808-0",
-            "rating": 0.26352,
-            "price": 0.91208,
+            "year": 1982,
+            "pages": 23,
+            "isbn13": "978-1-263-05307-1",
+            "rating": 0.05776,
+            "price": 0.4439,
             "author": [
-                "Michael Franklin DDS"
+                "John Nelson",
+                "Angela Woods"
             ]
         }
     },
@@ -173,15 +179,14 @@
         "model": "shop_final.book",
         "pk": 12,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 1991,
-            "pages": 69,
-            "isbn13": "978-1-4899-8919-2",
-            "rating": 0.62676,
-            "price": 0.45443,
+            "title": "Война и Мир\n",
+            "year": 1993,
+            "pages": 120,
+            "isbn13": "978-0-17-633836-7",
+            "rating": 0.91858,
+            "price": 0.98,
             "author": [
-                "Matthew Hernandez",
-                "Lee Williamson"
+                "Carlos Wilson"
             ]
         }
     },
@@ -189,16 +194,16 @@
         "model": "shop_final.book",
         "pk": 13,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1999,
-            "pages": 36,
-            "isbn13": "978-0-00-647443-2",
-            "rating": 0.1674,
-            "price": 0.916,
+            "title": "Преступление и наказание\n",
+            "year": 1985,
+            "pages": 31,
+            "isbn13": "978-0-641-43061-9",
+            "rating": 0.96061,
+            "price": 0.515,
             "author": [
-                "Tanner Guerra",
-                "Eric Tate",
-                "Andrew Hunt"
+                "Charles Good",
+                "Stephanie Henderson",
+                "Cynthia Mason"
             ]
         }
     },
@@ -206,16 +211,15 @@
         "model": "shop_final.book",
         "pk": 14,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1987,
-            "pages": 355,
-            "isbn13": "978-0-312-14217-9",
-            "rating": 0.17778,
-            "price": 0.27,
+            "title": "Горе от ума\n",
+            "year": 1995,
+            "pages": 220,
+            "isbn13": "978-1-4986-6851-4",
+            "rating": 0.05902,
+            "price": 0.889,
             "author": [
-                "Ronald Walker",
-                "Brian Meyer",
-                "Christian Rice"
+                "Mary Duran",
+                "Richard Wolfe"
             ]
         }
     },
@@ -223,15 +227,15 @@
         "model": "shop_final.book",
         "pk": 15,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 2010,
-            "pages": 176,
-            "isbn13": "978-0-609-95425-6",
-            "rating": 0.67949,
-            "price": 0.518,
+            "title": "Горе от ума\n",
+            "year": 1984,
+            "pages": 273,
+            "isbn13": "978-1-214-86911-9",
+            "rating": 0.43154,
+            "price": 0.55045,
             "author": [
-                "Laura Smith",
-                "Nancy Anderson"
+                "Dawn Foster",
+                "Matthew Rubio"
             ]
         }
     },
@@ -239,16 +243,15 @@
         "model": "shop_final.book",
         "pk": 16,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 2004,
-            "pages": 339,
-            "isbn13": "978-0-7474-5232-4",
-            "rating": 0.38687,
-            "price": 0.18,
+            "title": "Война и Мир\n",
+            "year": 2000,
+            "pages": 160,
+            "isbn13": "978-0-396-00775-3",
+            "rating": 0.4012,
+            "price": 0.6119,
             "author": [
-                "Carmen Johnson",
-                "Justin Frey",
-                "Meagan Leblanc"
+                "Andrew Jenkins",
+                "Jack Brown"
             ]
         }
     },
@@ -256,14 +259,16 @@
         "model": "shop_final.book",
         "pk": 17,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 1983,
-            "pages": 161,
-            "isbn13": "978-1-69754-332-2",
-            "rating": 0.89616,
-            "price": 0.42,
+            "title": "Война и Мир\n",
+            "year": 1998,
+            "pages": 334,
+            "isbn13": "978-0-89382-074-9",
+            "rating": 0.25723,
+            "price": 0.66,
             "author": [
-                "Tracy Cox"
+                "William Levy",
+                "Belinda Chandler",
+                "Isaac Ortiz"
             ]
         }
     },
@@ -271,16 +276,15 @@
         "model": "shop_final.book",
         "pk": 18,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 1985,
-            "pages": 227,
-            "isbn13": "978-1-5155-0462-7",
-            "rating": 0.87069,
-            "price": 0.6103,
+            "title": "Горе от ума\n",
+            "year": 2005,
+            "pages": 410,
+            "isbn13": "978-1-174-60119-4",
+            "rating": 0.18047,
+            "price": 0.92627,
             "author": [
-                "Phillip Cummings",
-                "Samantha Adams",
-                "Leslie Bridges DDS"
+                "Guy Foley",
+                "Michael Morris"
             ]
         }
     },
@@ -288,15 +292,16 @@
         "model": "shop_final.book",
         "pk": 19,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 2013,
-            "pages": 396,
-            "isbn13": "978-0-85674-663-5",
-            "rating": 0.69601,
-            "price": 0.373,
+            "title": "Идиот",
+            "year": 1985,
+            "pages": 429,
+            "isbn13": "978-1-4996-5382-3",
+            "rating": 0.48571,
+            "price": 0.183,
             "author": [
-                "Dale Merritt",
-                "Marie Brown"
+                "Jack Johnson",
+                "Dylan Baldwin",
+                "Theresa Williams MD"
             ]
         }
     },
@@ -304,15 +309,15 @@
         "model": "shop_final.book",
         "pk": 20,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 1993,
-            "pages": 452,
-            "isbn13": "978-1-234-06542-3",
-            "rating": 0.29801,
-            "price": 0.8985,
+            "title": "Капитанская дочка\n",
+            "year": 2004,
+            "pages": 85,
+            "isbn13": "978-0-379-67581-8",
+            "rating": 0.0234,
+            "price": 0.1037,
             "author": [
-                "Matthew Lewis",
-                "Michael Calhoun MD"
+                "Christine Petersen",
+                "Kara Santos"
             ]
         }
     },
@@ -320,14 +325,14 @@
         "model": "shop_final.book",
         "pk": 21,
         "fields": {
-            "title": "Идиот",
+            "title": "Капитанская дочка\n",
             "year": 1996,
-            "pages": 305,
-            "isbn13": "978-1-378-22826-5",
-            "rating": 0.55002,
-            "price": 0.29,
+            "pages": 322,
+            "isbn13": "978-1-4091-4929-3",
+            "rating": 0.66917,
+            "price": 0.0531,
             "author": [
-                "Elizabeth Cooper"
+                "Jordan Rodriguez MD"
             ]
         }
     },
@@ -335,15 +340,14 @@
         "model": "shop_final.book",
         "pk": 22,
         "fields": {
-            "title": "Идиот",
-            "year": 2020,
-            "pages": 18,
-            "isbn13": "978-0-416-34089-1",
-            "rating": 0.94928,
-            "price": 0.2849,
+            "title": "Война и Мир\n",
+            "year": 2013,
+            "pages": 460,
+            "isbn13": "978-1-963507-65-2",
+            "rating": 0.36705,
+            "price": 0.946,
             "author": [
-                "Mercedes Fitzpatrick",
-                "Faith Porter"
+                "Tara Stephenson"
             ]
         }
     },
@@ -351,14 +355,14 @@
         "model": "shop_final.book",
         "pk": 23,
         "fields": {
-            "title": "Война и Мир\n",
+            "title": "Горе от ума\n",
             "year": 1985,
-            "pages": 356,
-            "isbn13": "978-0-13-074690-0",
-            "rating": 0.22206,
-            "price": 0.53,
+            "pages": 69,
+            "isbn13": "978-0-571-67988-1",
+            "rating": 0.25179,
+            "price": 0.73,
             "author": [
-                "Shannon Thompson"
+                "Craig Hunt"
             ]
         }
     },
@@ -366,14 +370,15 @@
         "model": "shop_final.book",
         "pk": 24,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 2012,
-            "pages": 440,
-            "isbn13": "978-1-85257-765-0",
-            "rating": 0.83367,
-            "price": 0.9,
+            "title": "Идиот",
+            "year": 2011,
+            "pages": 372,
+            "isbn13": "978-1-5222-8872-5",
+            "rating": 0.03954,
+            "price": 0.057,
             "author": [
-                "Sheila Rodriguez"
+                "David Howard",
+                "Ronald Dixon"
             ]
         }
     },
@@ -381,16 +386,14 @@
         "model": "shop_final.book",
         "pk": 25,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 2014,
-            "pages": 240,
-            "isbn13": "978-1-4118-5781-0",
-            "rating": 0.13879,
-            "price": 0.984,
+            "title": "Идиот",
+            "year": 1989,
+            "pages": 103,
+            "isbn13": "978-0-07-219349-7",
+            "rating": 0.10638,
+            "price": 0.41,
             "author": [
-                "Allison Wagner",
-                "Michael Rocha",
-                "Christian Schmidt"
+                "Ashley Jones"
             ]
         }
     },
@@ -398,16 +401,15 @@
         "model": "shop_final.book",
         "pk": 26,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 1987,
-            "pages": 14,
-            "isbn13": "978-1-08-510384-8",
-            "rating": 0.31277,
-            "price": 0.085,
+            "title": "Война и Мир\n",
+            "year": 2008,
+            "pages": 111,
+            "isbn13": "978-1-5445-7837-8",
+            "rating": 0.91004,
+            "price": 0.06406,
             "author": [
-                "Rickey Mendez",
-                "Caleb Ewing",
-                "James Chandler"
+                "Teresa Kennedy",
+                "William Clark"
             ]
         }
     },
@@ -415,14 +417,16 @@
         "model": "shop_final.book",
         "pk": 27,
         "fields": {
-            "title": "Идиот",
-            "year": 1992,
-            "pages": 277,
-            "isbn13": "978-1-196-49990-8",
-            "rating": 0.83482,
-            "price": 0.5,
+            "title": "Война и Мир\n",
+            "year": 1993,
+            "pages": 72,
+            "isbn13": "978-1-328-17252-5",
+            "rating": 0.41509,
+            "price": 0.83,
             "author": [
-                "Robin Johnston"
+                "Jamie Anderson",
+                "Tonya Stewart",
+                "Michelle Gomez"
             ]
         }
     },
@@ -430,14 +434,14 @@
         "model": "shop_final.book",
         "pk": 28,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 1986,
-            "pages": 390,
-            "isbn13": "978-1-5068-5584-4",
-            "rating": 0.65217,
-            "price": 0.2,
+            "title": "Капитанская дочка\n",
+            "year": 2008,
+            "pages": 444,
+            "isbn13": "978-0-381-92787-5",
+            "rating": 0.71158,
+            "price": 0.5076,
             "author": [
-                "Mark Pena"
+                "Kimberly Martinez"
             ]
         }
     },
@@ -445,16 +449,16 @@
         "model": "shop_final.book",
         "pk": 29,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 2001,
-            "pages": 241,
-            "isbn13": "978-0-03-582196-2",
-            "rating": 0.51417,
-            "price": 0.64,
+            "title": "Горе от ума\n",
+            "year": 1986,
+            "pages": 382,
+            "isbn13": "978-0-7187-6100-4",
+            "rating": 0.04876,
+            "price": 0.27096,
             "author": [
-                "Brenda Henderson",
-                "Kyle Hebert",
-                "Diana Strickland"
+                "Laura Owens",
+                "Matthew Green",
+                "Willie Bryant"
             ]
         }
     },
@@ -462,14 +466,15 @@
         "model": "shop_final.book",
         "pk": 30,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 1984,
-            "pages": 360,
-            "isbn13": "978-0-221-12720-5",
-            "rating": 0.38623,
-            "price": 0.3446,
+            "title": "Преступление и наказание\n",
+            "year": 2010,
+            "pages": 140,
+            "isbn13": "978-0-672-72983-6",
+            "rating": 0.55189,
+            "price": 0.88,
             "author": [
-                "Jacob King"
+                "Laurie Powell",
+                "Megan Murphy"
             ]
         }
     },
@@ -477,15 +482,14 @@
         "model": "shop_final.book",
         "pk": 31,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1982,
-            "pages": 441,
-            "isbn13": "978-1-925583-93-9",
-            "rating": 0.13985,
-            "price": 0.489,
+            "title": "Капитанская дочка\n",
+            "year": 2001,
+            "pages": 307,
+            "isbn13": "978-1-894404-16-7",
+            "rating": 0.49225,
+            "price": 0.9,
             "author": [
-                "Linda Rivera",
-                "Joseph Blake"
+                "Andrew Moore"
             ]
         }
     },
@@ -494,15 +498,14 @@
         "pk": 32,
         "fields": {
             "title": "Капитанская дочка\n",
-            "year": 2008,
-            "pages": 49,
-            "isbn13": "978-1-174-66608-7",
-            "rating": 0.86059,
-            "price": 0.88,
+            "year": 1991,
+            "pages": 307,
+            "isbn13": "978-1-888290-76-9",
+            "rating": 0.94812,
+            "price": 0.8,
             "author": [
-                "Steven Mitchell",
-                "Lisa Rose",
-                "Franklin Meyer"
+                "Cindy Maddox",
+                "Joel King"
             ]
         }
     },
@@ -510,15 +513,15 @@
         "model": "shop_final.book",
         "pk": 33,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1996,
-            "pages": 301,
-            "isbn13": "978-0-259-56761-5",
-            "rating": 0.975,
-            "price": 0.31,
+            "title": "Идиот",
+            "year": 1980,
+            "pages": 115,
+            "isbn13": "978-1-85356-280-8",
+            "rating": 0.44243,
+            "price": 0.34704,
             "author": [
-                "Jacqueline Zuniga",
-                "Hector Harrison"
+                "Holly Davis",
+                "Erica Baker"
             ]
         }
     },
@@ -526,15 +529,16 @@
         "model": "shop_final.book",
         "pk": 34,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 2004,
-            "pages": 48,
-            "isbn13": "978-0-7541-2038-4",
-            "rating": 0.76066,
-            "price": 0.8722,
+            "title": "Капитанская дочка\n",
+            "year": 2016,
+            "pages": 125,
+            "isbn13": "978-0-02-431026-2",
+            "rating": 0.90676,
+            "price": 0.16231,
             "author": [
-                "Taylor Hines",
-                "Debbie York"
+                "Felicia Serrano",
+                "Jimmy Moore",
+                "Jon Wong"
             ]
         }
     },
@@ -542,14 +546,14 @@
         "model": "shop_final.book",
         "pk": 35,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1991,
-            "pages": 63,
-            "isbn13": "978-0-424-69024-7",
-            "rating": 0.63308,
-            "price": 0.78,
+            "title": "Идиот",
+            "year": 2009,
+            "pages": 145,
+            "isbn13": "978-1-64422-184-6",
+            "rating": 0.4332,
+            "price": 0.675,
             "author": [
-                "Margaret Hoffman"
+                "Tiffany Wilson"
             ]
         }
     },
@@ -557,14 +561,16 @@
         "model": "shop_final.book",
         "pk": 36,
         "fields": {
-            "title": "Горе от ума\n",
+            "title": "Преступление и наказание\n",
             "year": 1999,
-            "pages": 312,
-            "isbn13": "978-1-273-30800-0",
-            "rating": 0.71924,
-            "price": 0.4,
+            "pages": 275,
+            "isbn13": "978-0-630-02828-5",
+            "rating": 0.47902,
+            "price": 0.8382,
             "author": [
-                "James Ford"
+                "Daniel Macias",
+                "Lori Spencer",
+                "William Burke"
             ]
         }
     },
@@ -572,14 +578,14 @@
         "model": "shop_final.book",
         "pk": 37,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 1987,
-            "pages": 380,
-            "isbn13": "978-0-300-67072-1",
-            "rating": 0.44769,
-            "price": 0.46,
+            "title": "Горе от ума\n",
+            "year": 1980,
+            "pages": 36,
+            "isbn13": "978-0-9587121-9-4",
+            "rating": 0.464,
+            "price": 0.67603,
             "author": [
-                "Allison Murphy"
+                "Daniel Vargas"
             ]
         }
     },
@@ -587,14 +593,15 @@
         "model": "shop_final.book",
         "pk": 38,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 2002,
-            "pages": 349,
-            "isbn13": "978-1-285-62303-0",
-            "rating": 0.15495,
-            "price": 0.611,
+            "title": "Преступление и наказание\n",
+            "year": 2001,
+            "pages": 443,
+            "isbn13": "978-0-7516-7370-8",
+            "rating": 0.54987,
+            "price": 0.2966,
             "author": [
-                "Stephen Larson"
+                "Tony Hall",
+                "Autumn Smith"
             ]
         }
     },
@@ -603,13 +610,14 @@
         "pk": 39,
         "fields": {
             "title": "Капитанская дочка\n",
-            "year": 2016,
-            "pages": 204,
-            "isbn13": "978-1-4609-4396-0",
-            "rating": 0.50696,
-            "price": 0.0826,
+            "year": 1985,
+            "pages": 90,
+            "isbn13": "978-1-59388-283-9",
+            "rating": 0.55378,
+            "price": 0.34,
             "author": [
-                "Jessica Reyes"
+                "Toni Nguyen",
+                "Renee Davis"
             ]
         }
     },
@@ -617,14 +625,16 @@
         "model": "shop_final.book",
         "pk": 40,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 1986,
-            "pages": 270,
-            "isbn13": "978-1-4729-8705-1",
-            "rating": 0.92293,
-            "price": 0.1206,
+            "title": "Горе от ума\n",
+            "year": 1983,
+            "pages": 171,
+            "isbn13": "978-1-07-319846-7",
+            "rating": 0.20377,
+            "price": 0.9475,
             "author": [
-                "Aaron Meyer"
+                "Joseph Cook",
+                "John Underwood",
+                "Daniel Rodriguez"
             ]
         }
     },
@@ -632,16 +642,16 @@
         "model": "shop_final.book",
         "pk": 41,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 2003,
-            "pages": 168,
-            "isbn13": "978-1-5408-5287-8",
-            "rating": 0.12536,
-            "price": 0.96462,
+            "title": "Горе от ума\n",
+            "year": 2007,
+            "pages": 291,
+            "isbn13": "978-0-9835453-2-3",
+            "rating": 0.82322,
+            "price": 0.8375,
             "author": [
-                "Adam White",
-                "Melissa Velasquez MD",
-                "Amy Jones"
+                "Mario Navarro",
+                "Bryan Smith",
+                "Amy Young"
             ]
         }
     },
@@ -649,16 +659,16 @@
         "model": "shop_final.book",
         "pk": 42,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1989,
-            "pages": 385,
-            "isbn13": "978-0-85906-081-3",
-            "rating": 0.41798,
-            "price": 0.6445,
+            "title": "Преступление и наказание\n",
+            "year": 1999,
+            "pages": 60,
+            "isbn13": "978-0-652-00908-8",
+            "rating": 0.38246,
+            "price": 0.07036,
             "author": [
-                "Isaac Ward",
-                "William Williams",
-                "John Davis"
+                "Linda Ramirez",
+                "Samantha Todd",
+                "John Thompson"
             ]
         }
     },
@@ -667,15 +677,14 @@
         "pk": 43,
         "fields": {
             "title": "Война и Мир\n",
-            "year": 2008,
-            "pages": 213,
-            "isbn13": "978-0-14-734550-9",
-            "rating": 0.40697,
-            "price": 0.37701,
+            "year": 2012,
+            "pages": 379,
+            "isbn13": "978-0-9572229-2-2",
+            "rating": 0.24757,
+            "price": 0.05817,
             "author": [
-                "Leslie Moore",
-                "Nathan Grant",
-                "Joshua Salas"
+                "Brandon Evans",
+                "Jo Collins"
             ]
         }
     },
@@ -683,14 +692,16 @@
         "model": "shop_final.book",
         "pk": 44,
         "fields": {
-            "title": "Идиот",
-            "year": 1980,
-            "pages": 321,
-            "isbn13": "978-1-890372-78-1",
-            "rating": 0.34128,
-            "price": 0.84,
+            "title": "Преступление и наказание\n",
+            "year": 2013,
+            "pages": 230,
+            "isbn13": "978-0-637-10934-5",
+            "rating": 0.22628,
+            "price": 0.29116,
             "author": [
-                "Michael Ayala"
+                "Craig Rodgers",
+                "Joseph Mays",
+                "Paul Moore"
             ]
         }
     },
@@ -698,15 +709,15 @@
         "model": "shop_final.book",
         "pk": 45,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 1997,
-            "pages": 85,
-            "isbn13": "978-1-4798-4887-4",
-            "rating": 0.23118,
-            "price": 0.49999,
+            "title": "Идиот",
+            "year": 2018,
+            "pages": 131,
+            "isbn13": "978-1-67052-250-4",
+            "rating": 0.04737,
+            "price": 0.0,
             "author": [
-                "Amy Gordon",
-                "Elizabeth Chan"
+                "Harry Myers",
+                "Justin Wilson"
             ]
         }
     },
@@ -715,13 +726,15 @@
         "pk": 46,
         "fields": {
             "title": "Горе от ума\n",
-            "year": 1992,
-            "pages": 149,
-            "isbn13": "978-0-694-41988-3",
-            "rating": 0.99243,
-            "price": 0.1537,
+            "year": 1986,
+            "pages": 428,
+            "isbn13": "978-0-8429-3369-8",
+            "rating": 0.31304,
+            "price": 0.9,
             "author": [
-                "Kenneth Franklin"
+                "Darlene Nash",
+                "Jeremy Johnson",
+                "Robert Armstrong"
             ]
         }
     },
@@ -730,13 +743,14 @@
         "pk": 47,
         "fields": {
             "title": "Война и Мир\n",
-            "year": 2017,
-            "pages": 41,
-            "isbn13": "978-0-937035-60-3",
-            "rating": 0.23968,
-            "price": 0.09,
+            "year": 1987,
+            "pages": 322,
+            "isbn13": "978-0-9851780-9-3",
+            "rating": 0.60256,
+            "price": 0.00338,
             "author": [
-                "Tony Rivas"
+                "Jennifer Howell",
+                "Sandra Conner"
             ]
         }
     },
@@ -744,14 +758,14 @@
         "model": "shop_final.book",
         "pk": 48,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 2012,
-            "pages": 32,
-            "isbn13": "978-1-75995-734-0",
-            "rating": 0.6455,
-            "price": 0.9582,
+            "title": "Преступление и наказание\n",
+            "year": 1989,
+            "pages": 121,
+            "isbn13": "978-0-358-18136-1",
+            "rating": 0.84575,
+            "price": 0.194,
             "author": [
-                "Amy Castaneda"
+                "Kristen Hudson"
             ]
         }
     },
@@ -759,15 +773,15 @@
         "model": "shop_final.book",
         "pk": 49,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 1980,
-            "pages": 44,
-            "isbn13": "978-0-552-34529-3",
-            "rating": 0.86625,
-            "price": 0.84,
+            "title": "Идиот",
+            "year": 2010,
+            "pages": 147,
+            "isbn13": "978-1-5197-3756-4",
+            "rating": 0.82055,
+            "price": 0.5,
             "author": [
-                "Samantha Morrow",
-                "Lindsay Benton"
+                "Gloria Petersen",
+                "Erika Watson"
             ]
         }
     },
@@ -775,14 +789,16 @@
         "model": "shop_final.book",
         "pk": 50,
         "fields": {
-            "title": "Идиот",
-            "year": 2014,
-            "pages": 365,
-            "isbn13": "978-0-200-88755-7",
-            "rating": 0.10527,
-            "price": 0.9736,
+            "title": "Капитанская дочка\n",
+            "year": 1996,
+            "pages": 333,
+            "isbn13": "978-1-988950-01-3",
+            "rating": 0.93513,
+            "price": 0.36708,
             "author": [
-                "Nichole Rodriguez"
+                "Ms. Debra Chandler MD",
+                "Renee Lawson",
+                "Julie Calhoun"
             ]
         }
     },
@@ -790,14 +806,14 @@
         "model": "shop_final.book",
         "pk": 51,
         "fields": {
-            "title": "Идиот",
-            "year": 2003,
-            "pages": 53,
-            "isbn13": "978-0-595-73973-8",
-            "rating": 0.12521,
-            "price": 0.85,
+            "title": "Горе от ума\n",
+            "year": 2005,
+            "pages": 123,
+            "isbn13": "978-0-458-76635-2",
+            "rating": 0.97402,
+            "price": 0.6,
             "author": [
-                "Derek Miller"
+                "Cynthia Peterson"
             ]
         }
     },
@@ -805,15 +821,15 @@
         "model": "shop_final.book",
         "pk": 52,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 1987,
-            "pages": 451,
-            "isbn13": "978-1-05-176285-7",
-            "rating": 0.98877,
-            "price": 0.94,
+            "title": "Идиот",
+            "year": 2000,
+            "pages": 59,
+            "isbn13": "978-1-65825-290-4",
+            "rating": 0.8685,
+            "price": 0.06342,
             "author": [
-                "William George",
-                "Paul Villegas"
+                "Thomas Hunt",
+                "Shannon Ward"
             ]
         }
     },
@@ -822,15 +838,14 @@
         "pk": 53,
         "fields": {
             "title": "Горе от ума\n",
-            "year": 1996,
-            "pages": 319,
-            "isbn13": "978-0-7581-1577-5",
-            "rating": 0.68589,
-            "price": 0.5,
+            "year": 2015,
+            "pages": 236,
+            "isbn13": "978-1-76789-452-1",
+            "rating": 0.37558,
+            "price": 0.2029,
             "author": [
-                "Catherine White",
-                "Katherine Miller",
-                "Aaron Rodriguez"
+                "Kevin Little",
+                "David Chavez"
             ]
         }
     },
@@ -838,15 +853,15 @@
         "model": "shop_final.book",
         "pk": 54,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 2021,
-            "pages": 222,
-            "isbn13": "978-0-303-91852-3",
-            "rating": 0.27,
-            "price": 0.4445,
+            "title": "Идиот",
+            "year": 1996,
+            "pages": 10,
+            "isbn13": "978-0-487-30080-0",
+            "rating": 0.37923,
+            "price": 0.17,
             "author": [
-                "Charles Stewart",
-                "Matthew Miller"
+                "Anne Miller",
+                "Monique Henry"
             ]
         }
     },
@@ -854,16 +869,14 @@
         "model": "shop_final.book",
         "pk": 55,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 1983,
-            "pages": 137,
-            "isbn13": "978-1-331-15594-2",
-            "rating": 0.05775,
-            "price": 0.528,
+            "title": "Преступление и наказание\n",
+            "year": 1987,
+            "pages": 249,
+            "isbn13": "978-0-440-24850-7",
+            "rating": 0.96608,
+            "price": 0.71,
             "author": [
-                "Courtney Powell",
-                "Dr. Brent Hurst",
-                "Judy Gonzalez"
+                "Mallory Yu"
             ]
         }
     },
@@ -871,14 +884,14 @@
         "model": "shop_final.book",
         "pk": 56,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 2017,
-            "pages": 255,
-            "isbn13": "978-0-903168-99-1",
-            "rating": 0.93965,
-            "price": 0.57,
+            "title": "Преступление и наказание\n",
+            "year": 2001,
+            "pages": 124,
+            "isbn13": "978-1-362-11730-8",
+            "rating": 0.39915,
+            "price": 0.57927,
             "author": [
-                "Robert Jones"
+                "Timothy Green"
             ]
         }
     },
@@ -886,14 +899,15 @@
         "model": "shop_final.book",
         "pk": 57,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1989,
-            "pages": 338,
-            "isbn13": "978-1-5068-6621-5",
-            "rating": 0.68736,
-            "price": 0.867,
+            "title": "Капитанская дочка\n",
+            "year": 2010,
+            "pages": 217,
+            "isbn13": "978-0-323-61317-0",
+            "rating": 0.42958,
+            "price": 0.1,
             "author": [
-                "Richard Reeves"
+                "Bob Becker",
+                "Justin Richardson"
             ]
         }
     },
@@ -902,13 +916,13 @@
         "pk": 58,
         "fields": {
             "title": "Горе от ума\n",
-            "year": 1995,
-            "pages": 8,
-            "isbn13": "978-1-04-480661-2",
-            "rating": 0.47333,
-            "price": 0.7,
+            "year": 1983,
+            "pages": 95,
+            "isbn13": "978-1-237-18953-9",
+            "rating": 0.21209,
+            "price": 0.612,
             "author": [
-                "Lawrence Shields"
+                "Nicole Sexton"
             ]
         }
     },
@@ -916,16 +930,16 @@
         "model": "shop_final.book",
         "pk": 59,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 2011,
-            "pages": 429,
-            "isbn13": "978-1-328-39087-5",
-            "rating": 0.60017,
-            "price": 0.916,
+            "title": "Горе от ума\n",
+            "year": 2012,
+            "pages": 438,
+            "isbn13": "978-0-08-501490-1",
+            "rating": 0.02893,
+            "price": 1.0,
             "author": [
-                "Joseph Jackson",
-                "Alexander Cross",
-                "Benjamin Hernandez"
+                "Johnny Petty",
+                "Amber Mccormick",
+                "Ruben Robertson"
             ]
         }
     },
@@ -934,13 +948,13 @@
         "pk": 60,
         "fields": {
             "title": "Капитанская дочка\n",
-            "year": 1989,
-            "pages": 380,
-            "isbn13": "978-0-665-36069-5",
-            "rating": 0.28732,
-            "price": 0.0,
+            "year": 1988,
+            "pages": 308,
+            "isbn13": "978-0-460-08096-5",
+            "rating": 0.75451,
+            "price": 0.2,
             "author": [
-                "Christine Campbell"
+                "Blake Duke"
             ]
         }
     },
@@ -948,14 +962,15 @@
         "model": "shop_final.book",
         "pk": 61,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1999,
-            "pages": 257,
-            "isbn13": "978-0-7922-6559-7",
-            "rating": 0.38293,
-            "price": 0.5653,
+            "title": "Идиот",
+            "year": 2014,
+            "pages": 396,
+            "isbn13": "978-1-60536-488-9",
+            "rating": 0.36134,
+            "price": 0.37066,
             "author": [
-                "Eric Johnson"
+                "Tony Vasquez",
+                "Kevin Lowe"
             ]
         }
     },
@@ -963,16 +978,16 @@
         "model": "shop_final.book",
         "pk": 62,
         "fields": {
-            "title": "Идиот",
-            "year": 2009,
-            "pages": 77,
-            "isbn13": "978-1-06-485174-6",
-            "rating": 0.76951,
-            "price": 0.886,
+            "title": "Преступление и наказание\n",
+            "year": 2015,
+            "pages": 293,
+            "isbn13": "978-1-01-221039-7",
+            "rating": 0.7457,
+            "price": 0.90977,
             "author": [
-                "Wendy Campbell",
-                "Margaret Adams",
-                "Toni Garrison"
+                "Timothy Sweeney",
+                "John Miller",
+                "Marc Thomas"
             ]
         }
     },
@@ -980,14 +995,15 @@
         "model": "shop_final.book",
         "pk": 63,
         "fields": {
-            "title": "Идиот",
-            "year": 1993,
-            "pages": 94,
-            "isbn13": "978-0-446-04141-6",
-            "rating": 0.04037,
-            "price": 0.81708,
+            "title": "Война и Мир\n",
+            "year": 1994,
+            "pages": 245,
+            "isbn13": "978-0-07-539866-0",
+            "rating": 0.06723,
+            "price": 0.09,
             "author": [
-                "Edwin Frost"
+                "Jonathan Wallace",
+                "Martin Brown"
             ]
         }
     },
@@ -995,16 +1011,16 @@
         "model": "shop_final.book",
         "pk": 64,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 2008,
-            "pages": 425,
-            "isbn13": "978-0-17-548398-3",
-            "rating": 0.79846,
-            "price": 0.39141,
+            "title": "Идиот",
+            "year": 1991,
+            "pages": 243,
+            "isbn13": "978-0-09-991841-7",
+            "rating": 0.22195,
+            "price": 0.83,
             "author": [
-                "Alisha Olson",
-                "John Ruiz",
-                "Stanley Fisher"
+                "Ryan Hansen",
+                "Jamie Cruz",
+                "Thomas Wright"
             ]
         }
     },
@@ -1013,14 +1029,13 @@
         "pk": 65,
         "fields": {
             "title": "Преступление и наказание\n",
-            "year": 1983,
-            "pages": 65,
-            "isbn13": "978-1-80903-907-1",
-            "rating": 0.78913,
-            "price": 0.0387,
+            "year": 1989,
+            "pages": 183,
+            "isbn13": "978-1-236-12567-5",
+            "rating": 0.06365,
+            "price": 0.4721,
             "author": [
-                "Edward Gonzalez",
-                "Jennifer Graves"
+                "Dennis Hall"
             ]
         }
     },
@@ -1028,16 +1043,15 @@
         "model": "shop_final.book",
         "pk": 66,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 2012,
-            "pages": 177,
-            "isbn13": "978-1-67130-298-3",
-            "rating": 0.73707,
-            "price": 0.21,
+            "title": "Капитанская дочка\n",
+            "year": 2013,
+            "pages": 365,
+            "isbn13": "978-1-143-59097-9",
+            "rating": 0.47749,
+            "price": 0.215,
             "author": [
-                "Christopher Lee",
-                "Sonya Williams",
-                "Lindsay Cox"
+                "Debra Miller",
+                "Joshua Smith"
             ]
         }
     },
@@ -1045,14 +1059,15 @@
         "model": "shop_final.book",
         "pk": 67,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 1992,
-            "pages": 444,
-            "isbn13": "978-0-8415-1813-1",
-            "rating": 0.9398,
-            "price": 0.4162,
+            "title": "Идиот",
+            "year": 2011,
+            "pages": 190,
+            "isbn13": "978-1-59545-957-2",
+            "rating": 0.83651,
+            "price": 0.7,
             "author": [
-                "Michael Brandt"
+                "Michael Quinn",
+                "Melissa Turner"
             ]
         }
     },
@@ -1060,16 +1075,14 @@
         "model": "shop_final.book",
         "pk": 68,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 2015,
-            "pages": 345,
-            "isbn13": "978-0-13-953944-2",
-            "rating": 0.02924,
-            "price": 0.613,
+            "title": "Преступление и наказание\n",
+            "year": 2001,
+            "pages": 87,
+            "isbn13": "978-1-891352-80-5",
+            "rating": 0.78229,
+            "price": 0.3,
             "author": [
-                "Lisa Hickman",
-                "Daniel Reese",
-                "Robert Ramos"
+                "Ashley Browning"
             ]
         }
     },
@@ -1077,15 +1090,15 @@
         "model": "shop_final.book",
         "pk": 69,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 1985,
-            "pages": 320,
-            "isbn13": "978-1-67605-022-3",
-            "rating": 0.75171,
-            "price": 0.3521,
+            "title": "Война и Мир\n",
+            "year": 2018,
+            "pages": 92,
+            "isbn13": "978-1-989998-43-4",
+            "rating": 0.95248,
+            "price": 0.267,
             "author": [
-                "Jeffrey Harper",
-                "Larry Skinner"
+                "William Briggs",
+                "Jill Moore"
             ]
         }
     },
@@ -1093,16 +1106,14 @@
         "model": "shop_final.book",
         "pk": 70,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1983,
-            "pages": 288,
-            "isbn13": "978-0-661-68710-9",
-            "rating": 0.69959,
-            "price": 0.7,
+            "title": "Идиот",
+            "year": 2005,
+            "pages": 10,
+            "isbn13": "978-1-80182-013-4",
+            "rating": 0.64229,
+            "price": 0.0349,
             "author": [
-                "Kimberly Phillips",
-                "Sydney Powell",
-                "Kathryn Ramos"
+                "Mr. Charles Harding MD"
             ]
         }
     },
@@ -1110,16 +1121,14 @@
         "model": "shop_final.book",
         "pk": 71,
         "fields": {
-            "title": "Идиот",
-            "year": 2019,
-            "pages": 67,
-            "isbn13": "978-1-262-77941-5",
-            "rating": 0.94882,
-            "price": 0.551,
+            "title": "Преступление и наказание\n",
+            "year": 2005,
+            "pages": 131,
+            "isbn13": "978-1-9769-8542-3",
+            "rating": 0.68037,
+            "price": 0.63,
             "author": [
-                "Gary Greene",
-                "Kenneth Richmond",
-                "Andrew Holt"
+                "Adam Acosta"
             ]
         }
     },
@@ -1127,15 +1136,15 @@
         "model": "shop_final.book",
         "pk": 72,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1989,
-            "pages": 13,
-            "isbn13": "978-1-08-230730-0",
-            "rating": 0.09775,
-            "price": 0.69,
+            "title": "Идиот",
+            "year": 1982,
+            "pages": 182,
+            "isbn13": "978-0-647-52316-2",
+            "rating": 0.94098,
+            "price": 0.7,
             "author": [
-                "Nicole Spencer",
-                "Kristen Edwards"
+                "Cheyenne Simpson",
+                "Sierra Schaefer"
             ]
         }
     },
@@ -1143,14 +1152,14 @@
         "model": "shop_final.book",
         "pk": 73,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 1988,
-            "pages": 325,
-            "isbn13": "978-1-229-76097-5",
-            "rating": 0.08539,
-            "price": 0.9577,
+            "title": "Горе от ума\n",
+            "year": 2012,
+            "pages": 139,
+            "isbn13": "978-0-9633838-9-1",
+            "rating": 0.39109,
+            "price": 0.98,
             "author": [
-                "Emily Brennan"
+                "Sarah Barnes"
             ]
         }
     },
@@ -1158,16 +1167,16 @@
         "model": "shop_final.book",
         "pk": 74,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 1992,
-            "pages": 48,
-            "isbn13": "978-0-9709890-7-9",
-            "rating": 0.56094,
-            "price": 0.9424,
+            "title": "Преступление и наказание\n",
+            "year": 2004,
+            "pages": 154,
+            "isbn13": "978-0-12-468975-6",
+            "rating": 0.05558,
+            "price": 0.56358,
             "author": [
-                "Ashley Singh",
-                "Michael Smith",
-                "Ronald Gordon"
+                "Marissa Jackson",
+                "Margaret Adams",
+                "Jennifer Rodriguez"
             ]
         }
     },
@@ -1175,14 +1184,16 @@
         "model": "shop_final.book",
         "pk": 75,
         "fields": {
-            "title": "Идиот",
-            "year": 2010,
-            "pages": 400,
-            "isbn13": "978-1-86191-430-9",
-            "rating": 0.68663,
-            "price": 0.7945,
+            "title": "Горе от ума\n",
+            "year": 2020,
+            "pages": 367,
+            "isbn13": "978-1-280-63329-4",
+            "rating": 0.80591,
+            "price": 0.9565,
             "author": [
-                "Ellen Andrews"
+                "Kristen Parker",
+                "Sabrina Ayala",
+                "Ryan Taylor"
             ]
         }
     },
@@ -1190,15 +1201,16 @@
         "model": "shop_final.book",
         "pk": 76,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 2012,
-            "pages": 278,
-            "isbn13": "978-1-4101-0373-4",
-            "rating": 0.85929,
-            "price": 0.49,
+            "title": "Капитанская дочка\n",
+            "year": 1998,
+            "pages": 204,
+            "isbn13": "978-0-479-20272-3",
+            "rating": 0.04298,
+            "price": 0.2,
             "author": [
-                "Alexis Mclean",
-                "Christopher Chung"
+                "Mark Nguyen",
+                "Raymond Barnett",
+                "Rachel Le"
             ]
         }
     },
@@ -1206,15 +1218,15 @@
         "model": "shop_final.book",
         "pk": 77,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 2012,
-            "pages": 365,
-            "isbn13": "978-0-568-05254-3",
-            "rating": 0.20264,
-            "price": 0.136,
+            "title": "Горе от ума\n",
+            "year": 1995,
+            "pages": 276,
+            "isbn13": "978-0-626-43799-2",
+            "rating": 0.33972,
+            "price": 0.95992,
             "author": [
-                "Bobby Taylor",
-                "Theresa Shaw"
+                "Joy Lopez",
+                "Andrew Hicks"
             ]
         }
     },
@@ -1222,16 +1234,16 @@
         "model": "shop_final.book",
         "pk": 78,
         "fields": {
-            "title": "Идиот",
-            "year": 1983,
-            "pages": 174,
-            "isbn13": "978-0-273-32692-2",
-            "rating": 0.69225,
-            "price": 0.07225,
+            "title": "Капитанская дочка\n",
+            "year": 2017,
+            "pages": 398,
+            "isbn13": "978-0-355-56508-9",
+            "rating": 0.35617,
+            "price": 0.4,
             "author": [
-                "Tina Lewis DDS",
-                "Dr. Edward Lopez",
-                "Emily Evans"
+                "Sara Gonzalez",
+                "Thomas Becker",
+                "Michael Farmer"
             ]
         }
     },
@@ -1239,15 +1251,16 @@
         "model": "shop_final.book",
         "pk": 79,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 1983,
-            "pages": 95,
-            "isbn13": "978-1-59921-005-6",
-            "rating": 0.56605,
-            "price": 0.4,
+            "title": "Капитанская дочка\n",
+            "year": 2002,
+            "pages": 45,
+            "isbn13": "978-0-360-95900-2",
+            "rating": 0.52088,
+            "price": 0.67,
             "author": [
-                "Janice Davis",
-                "Gabrielle Watkins"
+                "Diane Smith",
+                "James Gonzalez",
+                "Brian Lawson"
             ]
         }
     },
@@ -1255,16 +1268,16 @@
         "model": "shop_final.book",
         "pk": 80,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 2000,
-            "pages": 99,
-            "isbn13": "978-1-878191-47-2",
-            "rating": 0.51894,
-            "price": 0.92,
+            "title": "Идиот",
+            "year": 1996,
+            "pages": 391,
+            "isbn13": "978-1-56684-304-1",
+            "rating": 0.10291,
+            "price": 0.94,
             "author": [
-                "George Gonzales",
-                "Kristine Young",
-                "Michael Franklin"
+                "Christopher Clark",
+                "Tonya Rosario",
+                "Angela Keller"
             ]
         }
     },
@@ -1272,14 +1285,14 @@
         "model": "shop_final.book",
         "pk": 81,
         "fields": {
-            "title": "Преступление и наказание\n",
-            "year": 2013,
-            "pages": 196,
-            "isbn13": "978-0-934661-36-2",
-            "rating": 0.31734,
-            "price": 0.5,
+            "title": "Война и Мир\n",
+            "year": 2018,
+            "pages": 252,
+            "isbn13": "978-1-332-51621-6",
+            "rating": 0.53127,
+            "price": 0.9702,
             "author": [
-                "Kevin Leonard"
+                "Gabriel Price"
             ]
         }
     },
@@ -1287,16 +1300,16 @@
         "model": "shop_final.book",
         "pk": 82,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 2005,
-            "pages": 124,
-            "isbn13": "978-0-01-776006-7",
-            "rating": 0.48946,
-            "price": 0.27,
+            "title": "Преступление и наказание\n",
+            "year": 1991,
+            "pages": 461,
+            "isbn13": "978-1-4571-7917-4",
+            "rating": 0.6646,
+            "price": 0.6389,
             "author": [
-                "Nicholas Dixon",
-                "Tammy Whitaker",
-                "Brian Martin"
+                "Paul Gomez",
+                "Cheyenne Martinez",
+                "Edward Nixon"
             ]
         }
     },
@@ -1304,16 +1317,15 @@
         "model": "shop_final.book",
         "pk": 83,
         "fields": {
-            "title": "Идиот",
-            "year": 2020,
-            "pages": 122,
-            "isbn13": "978-1-62477-138-5",
-            "rating": 0.44982,
-            "price": 0.9818,
+            "title": "Горе от ума\n",
+            "year": 1980,
+            "pages": 118,
+            "isbn13": "978-0-85874-352-6",
+            "rating": 0.39795,
+            "price": 0.22,
             "author": [
-                "Sydney Harrison",
-                "Joseph Christian",
-                "Tara Robbins"
+                "David Mosley",
+                "Jeremiah Beasley"
             ]
         }
     },
@@ -1321,16 +1333,16 @@
         "model": "shop_final.book",
         "pk": 84,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 2010,
-            "pages": 56,
-            "isbn13": "978-1-4621-6833-0",
-            "rating": 0.74403,
-            "price": 0.55732,
+            "title": "Капитанская дочка\n",
+            "year": 1994,
+            "pages": 171,
+            "isbn13": "978-0-329-25199-4",
+            "rating": 0.47718,
+            "price": 0.5435,
             "author": [
-                "Ellen Pittman",
-                "Brandi Jensen",
-                "Brian Contreras"
+                "Mackenzie Sullivan",
+                "Alexis Weaver DDS",
+                "Megan Ewing"
             ]
         }
     },
@@ -1338,16 +1350,15 @@
         "model": "shop_final.book",
         "pk": 85,
         "fields": {
-            "title": "Идиот",
-            "year": 1995,
-            "pages": 409,
-            "isbn13": "978-1-62368-546-1",
-            "rating": 0.88077,
-            "price": 0.3,
+            "title": "Горе от ума\n",
+            "year": 2005,
+            "pages": 195,
+            "isbn13": "978-1-122-80873-6",
+            "rating": 0.72965,
+            "price": 0.59,
             "author": [
-                "Dr. Stacey Anderson",
-                "Sherry Johnson",
-                "Kurt Williams"
+                "Michael Robbins",
+                "Denise Rogers"
             ]
         }
     },
@@ -1355,14 +1366,16 @@
         "model": "shop_final.book",
         "pk": 86,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 2010,
-            "pages": 422,
-            "isbn13": "978-1-77805-534-8",
-            "rating": 0.01966,
-            "price": 0.2,
+            "title": "Капитанская дочка\n",
+            "year": 1980,
+            "pages": 176,
+            "isbn13": "978-1-246-96685-5",
+            "rating": 0.7697,
+            "price": 0.4737,
             "author": [
-                "Julie Oneill"
+                "Nathan Sellers",
+                "Tara Garcia",
+                "Allen Pierce"
             ]
         }
     },
@@ -1371,15 +1384,14 @@
         "pk": 87,
         "fields": {
             "title": "Капитанская дочка\n",
-            "year": 2009,
-            "pages": 304,
-            "isbn13": "978-0-7867-5413-7",
-            "rating": 0.49949,
-            "price": 0.4,
+            "year": 2008,
+            "pages": 303,
+            "isbn13": "978-1-60218-800-6",
+            "rating": 0.49492,
+            "price": 0.93732,
             "author": [
-                "Anthony Brady",
-                "Nicholas Carter",
-                "Zachary Conrad"
+                "David Thompson",
+                "Brittney Hernandez"
             ]
         }
     },
@@ -1387,14 +1399,15 @@
         "model": "shop_final.book",
         "pk": 88,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 1991,
-            "pages": 421,
-            "isbn13": "978-1-334-42935-4",
-            "rating": 0.79649,
-            "price": 0.25,
+            "title": "Капитанская дочка\n",
+            "year": 1997,
+            "pages": 259,
+            "isbn13": "978-1-5430-8534-1",
+            "rating": 0.85631,
+            "price": 0.19,
             "author": [
-                "Kelly Lucas"
+                "Linda Bishop",
+                "Michele Neal"
             ]
         }
     },
@@ -1402,15 +1415,14 @@
         "model": "shop_final.book",
         "pk": 89,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 2012,
-            "pages": 106,
-            "isbn13": "978-0-9530959-7-1",
-            "rating": 0.34466,
-            "price": 0.99,
+            "title": "Горе от ума\n",
+            "year": 2003,
+            "pages": 116,
+            "isbn13": "978-1-152-80916-1",
+            "rating": 0.98278,
+            "price": 0.344,
             "author": [
-                "Jessica Watson",
-                "Kelly Reyes"
+                "Jimmy Craig"
             ]
         }
     },
@@ -1418,16 +1430,15 @@
         "model": "shop_final.book",
         "pk": 90,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 1995,
-            "pages": 50,
-            "isbn13": "978-0-901783-57-8",
-            "rating": 0.95257,
-            "price": 0.6,
+            "title": "Капитанская дочка\n",
+            "year": 1982,
+            "pages": 101,
+            "isbn13": "978-1-56854-937-8",
+            "rating": 0.45598,
+            "price": 0.0323,
             "author": [
-                "Katelyn Andrews",
-                "Sandra Lee",
-                "Marco Mason"
+                "Tracy Smith",
+                "Richard Campbell"
             ]
         }
     },
@@ -1436,15 +1447,14 @@
         "pk": 91,
         "fields": {
             "title": "Идиот",
-            "year": 1998,
-            "pages": 268,
-            "isbn13": "978-1-09-525245-1",
-            "rating": 0.72573,
-            "price": 0.1515,
+            "year": 2008,
+            "pages": 1,
+            "isbn13": "978-0-530-00161-6",
+            "rating": 0.06566,
+            "price": 0.8,
             "author": [
-                "John Cabrera",
-                "Amanda Woodward",
-                "Rebecca Higgins"
+                "Susan Wright",
+                "Micheal Patterson"
             ]
         }
     },
@@ -1452,16 +1462,14 @@
         "model": "shop_final.book",
         "pk": 92,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 2012,
-            "pages": 380,
-            "isbn13": "978-1-5321-4531-5",
-            "rating": 0.41746,
-            "price": 0.215,
+            "title": "Война и Мир\n",
+            "year": 2010,
+            "pages": 287,
+            "isbn13": "978-1-75383-756-3",
+            "rating": 0.89064,
+            "price": 0.61,
             "author": [
-                "Derek Williams",
-                "Miss Kristin Watson",
-                "Victor Johnson"
+                "Sergio Rodriguez"
             ]
         }
     },
@@ -1469,14 +1477,15 @@
         "model": "shop_final.book",
         "pk": 93,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 2009,
-            "pages": 140,
-            "isbn13": "978-0-09-653738-3",
-            "rating": 0.7241,
-            "price": 0.3908,
+            "title": "Преступление и наказание\n",
+            "year": 1998,
+            "pages": 113,
+            "isbn13": "978-0-7248-6145-3",
+            "rating": 0.41758,
+            "price": 0.55,
             "author": [
-                "Tina Stewart"
+                "Jillian White",
+                "Sean Evans"
             ]
         }
     },
@@ -1484,15 +1493,14 @@
         "model": "shop_final.book",
         "pk": 94,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 2003,
-            "pages": 223,
-            "isbn13": "978-0-7798-9440-6",
-            "rating": 0.12898,
-            "price": 0.86,
+            "title": "Война и Мир\n",
+            "year": 2009,
+            "pages": 179,
+            "isbn13": "978-0-9831752-2-3",
+            "rating": 0.22404,
+            "price": 0.72885,
             "author": [
-                "Eric Guzman",
-                "Sean Lee"
+                "Katrina Owens"
             ]
         }
     },
@@ -1500,15 +1508,15 @@
         "model": "shop_final.book",
         "pk": 95,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 2021,
-            "pages": 441,
-            "isbn13": "978-0-457-04135-1",
-            "rating": 0.60639,
-            "price": 0.037,
+            "title": "Капитанская дочка\n",
+            "year": 1991,
+            "pages": 289,
+            "isbn13": "978-1-926441-21-4",
+            "rating": 0.74167,
+            "price": 0.43,
             "author": [
-                "Anthony Fisher",
-                "Steven Jimenez"
+                "Kyle Erickson",
+                "Lisa Watts"
             ]
         }
     },
@@ -1517,14 +1525,14 @@
         "pk": 96,
         "fields": {
             "title": "Преступление и наказание\n",
-            "year": 2003,
-            "pages": 376,
-            "isbn13": "978-0-322-13245-0",
-            "rating": 0.30733,
-            "price": 0.23,
+            "year": 1988,
+            "pages": 167,
+            "isbn13": "978-0-295-22898-3",
+            "rating": 0.57553,
+            "price": 0.9,
             "author": [
-                "Angela Rice",
-                "Erica Johnson"
+                "Brandon Miller",
+                "Mary Payne"
             ]
         }
     },
@@ -1532,16 +1540,15 @@
         "model": "shop_final.book",
         "pk": 97,
         "fields": {
-            "title": "Идиот",
-            "year": 2014,
-            "pages": 186,
-            "isbn13": "978-0-7879-7003-1",
-            "rating": 0.82664,
-            "price": 0.06112,
+            "title": "Горе от ума\n",
+            "year": 1999,
+            "pages": 301,
+            "isbn13": "978-1-72687-385-7",
+            "rating": 0.58733,
+            "price": 0.2,
             "author": [
-                "Alexander Hess",
-                "Donna King",
-                "Sarah Lewis"
+                "Lisa Gibson MD",
+                "John Cruz"
             ]
         }
     },
@@ -1549,15 +1556,15 @@
         "model": "shop_final.book",
         "pk": 98,
         "fields": {
-            "title": "Капитанская дочка\n",
-            "year": 1997,
-            "pages": 137,
-            "isbn13": "978-1-4426-7476-9",
-            "rating": 0.62327,
-            "price": 0.39,
+            "title": "Идиот",
+            "year": 1996,
+            "pages": 324,
+            "isbn13": "978-1-81927-573-5",
+            "rating": 0.19934,
+            "price": 0.822,
             "author": [
-                "Charles Garcia",
-                "Adam Trujillo"
+                "Kara Pierce",
+                "Reginald Guerra"
             ]
         }
     },
@@ -1565,15 +1572,14 @@
         "model": "shop_final.book",
         "pk": 99,
         "fields": {
-            "title": "Война и Мир\n",
-            "year": 2015,
-            "pages": 365,
-            "isbn13": "978-0-322-02623-0",
-            "rating": 0.6612,
-            "price": 0.31,
+            "title": "Горе от ума\n",
+            "year": 2017,
+            "pages": 33,
+            "isbn13": "978-1-4139-2838-9",
+            "rating": 0.37013,
+            "price": 0.7084,
             "author": [
-                "William Johnson",
-                "Leslie Rodriguez"
+                "Julia Bernard"
             ]
         }
     },
@@ -1581,16 +1587,15 @@
         "model": "shop_final.book",
         "pk": 100,
         "fields": {
-            "title": "Горе от ума\n",
-            "year": 2013,
-            "pages": 445,
-            "isbn13": "978-1-4301-3997-3",
-            "rating": 0.2429,
-            "price": 0.58,
+            "title": "Война и Мир\n",
+            "year": 2011,
+            "pages": 111,
+            "isbn13": "978-0-603-53397-6",
+            "rating": 0.10074,
+            "price": 0.3,
             "author": [
-                "Dr. David Best",
-                "Becky Smith",
-                "Angel Anderson"
+                "Anna Torres",
+                "Sabrina Williamson"
             ]
         }
     }

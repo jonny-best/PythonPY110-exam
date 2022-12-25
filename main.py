@@ -65,7 +65,6 @@ def main():
     with open("spisok.json", "w", encoding="utf-8") as f: # записать этот список в json
         f.write(json.dumps(data, indent=4, ensure_ascii=False))
 
-
 if __name__ == '__main__': #Запуск программы
     main()
 
